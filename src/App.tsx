@@ -10,10 +10,16 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Layout />}>
+        <Route path="/Rick-and-Morty-Test-Task" element={<Layout />}>
           <Route index element={<Characters />} />
-          <Route path="episodes" element={<Episodes />} />
-          <Route path="locations" element={<Locations />} />
+          <Route
+            path="/Rick-and-Morty-Test-Task/episodes"
+            element={<Episodes />}
+          />
+          <Route
+            path="/Rick-and-Morty-Test-Task/locations"
+            element={<Locations />}
+          />
         </Route>
       </Routes>
     </BrowserRouter>

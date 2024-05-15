@@ -12,17 +12,20 @@ export const Layout: React.FC = () => {
       <header>
         <img className="logo" src={logo} alt="logo" />
         <nav className="navMenu">
-          <Link to="/" className={location === "/" ? "active" : ""}>
+          <Link
+            to="/Rick-and-Morty-Test-Task"
+            className={location === "/" ? "active" : ""}
+          >
             Characters
           </Link>
           <Link
-            to="/episodes"
+            to="/Rick-and-Morty-Test-Task/episodes"
             className={location === "/episodes" ? "active" : ""}
           >
             Episodes
           </Link>
           <Link
-            to="/locations"
+            to="/Rick-and-Morty-Test-Task/locations"
             className={location === "/locations" ? "active" : ""}
           >
             Locations
