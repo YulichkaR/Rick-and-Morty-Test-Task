@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.a3ba8807.css",
-    "main.js": "/static/js/main.9dce93ae.js",
-    "static/js/787.8dbf608d.chunk.js": "/static/js/787.8dbf608d.chunk.js",
-    "static/media/logo.png": "/static/media/logo.df73b7db546a5a50f92d.png",
-    "index.html": "/index.html",
-    "main.a3ba8807.css.map": "/static/css/main.a3ba8807.css.map",
-    "main.9dce93ae.js.map": "/static/js/main.9dce93ae.js.map",
-    "787.8dbf608d.chunk.js.map": "/static/js/787.8dbf608d.chunk.js.map"
+    "main.css": "/Rick-and-Morty-Test-Task/static/css/main.a3ba8807.css",
+    "main.js": "/Rick-and-Morty-Test-Task/static/js/main.c21615d6.js",
+    "static/js/787.8dbf608d.chunk.js": "/Rick-and-Morty-Test-Task/static/js/787.8dbf608d.chunk.js",
+    "static/media/logo.png": "/Rick-and-Morty-Test-Task/static/media/logo.df73b7db546a5a50f92d.png",
+    "index.html": "/Rick-and-Morty-Test-Task/index.html",
+    "main.a3ba8807.css.map": "/Rick-and-Morty-Test-Task/static/css/main.a3ba8807.css.map",
+    "main.c21615d6.js.map": "/Rick-and-Morty-Test-Task/static/js/main.c21615d6.js.map",
+    "787.8dbf608d.chunk.js.map": "/Rick-and-Morty-Test-Task/static/js/787.8dbf608d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a3ba8807.css",
-    "static/js/main.9dce93ae.js"
+    "static/js/main.c21615d6.js"
   ]
 }
